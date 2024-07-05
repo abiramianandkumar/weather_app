@@ -43,20 +43,20 @@ A simple Flutter application that fetches and displays current weather informati
 ## Getting Started
 To run the app locally, follow these steps:
 
-1.Clone the repository
+1. Clone the repository
 
-2.Install dependencies
+2. Install dependencies
 
-3.API Key Setup
+3. API Key Setup
 
 * Obtain an API key from [OpenWeatherMap](https://openweathermap.org/).
-* Replace const String api = 'YOUR_API_KEY'; in lib/consts.dart with your API key.
+* Replace const api = 'YOUR_API_KEY'; in lib/consts.dart with your API key.
 
-4.Run the app
+4. Run the app
 
 * Connect your device/emulator and run the app using Flutter.
 
-5.Usage
+5. Usage
 
 * On the home screen, enter a city name in the search bar and tap the arrow button to view weather details.
 * The weather details screen displays current weather information for the selected city.
