@@ -49,18 +49,18 @@ To run the app locally, follow these steps:
 
 3. API Key Setup
 
-* Obtain an API key from [OpenWeatherMap](https://openweathermap.org/).
-* Replace const api = 'YOUR_API_KEY'; in lib/consts.dart with your API key.
+  * Obtain an API key from [OpenWeatherMap](https://openweathermap.org/).
+  * Replace const api = 'YOUR_API_KEY'; in lib/consts.dart with your API key.
 
 4. Run the app
 
-* Connect your device/emulator and run the app using Flutter.
+  * Connect your device/emulator and run the app using Flutter.
 
 5. Usage
 
-* On the home screen, enter a city name in the search bar and tap the arrow button to view weather details.
-* The weather details screen displays current weather information for the selected city.
-* Use the "Refresh" button to update weather data.
-* The app persists the last searched city for convenience.
+  * On the home screen, enter a city name in the search bar and tap the arrow button to view weather details.
+  * The weather details screen displays current weather information for the selected city.
+  * Use the "Refresh" button to update weather data.
+  * The app persists the last searched city for convenience.
 
   
