@@ -9,16 +9,16 @@ A simple Flutter application that fetches and displays current weather informati
 * Displays loading indicator while fetching data.
 * Persists the last searched city using SharedPreferences.
   
-#### Weather Details Screen:
+##### Weather Details Screen:
 
 * Displays current temperature, weather condition, humidity percentage, and wind speed for the selected city.
 * Shows an icon representing the current weather condition.
 * Implements a "Refresh" button to fetch updated weather data.
 
-#### Error Handling:
+##### Error Handling:
 
 * Properly handles API request errors and displays user-friendly error messages.
-#### State Management:
+##### State Management:
 
 * Uses Provider package for state management to handle fetching weather data and updating UI.
 #### Responsive Design:
